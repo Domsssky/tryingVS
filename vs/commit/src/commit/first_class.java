@@ -3,7 +3,7 @@ package commit;
 public class first_class {
 
 	public static void main(String[] args) {
-		System.out.println("hahahahahahegegege");
+		System.out.println("hotdog");
 	}
 
 }
